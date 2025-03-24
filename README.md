@@ -2,7 +2,7 @@
 
 MultiSaver is a Tauri application that allows users to download videos and audio from various sources using the yt-dlp tool. This project is built with React and TypeScript, providing a modern and responsive user interface. 🚀
 
-![Project Screenshot]([https://i.postimg.cc/sfNczXxm/multisaver-v2-R6ae5f-Ea8-R.png](https://i.postimg.cc/KzYPSSyC/postspark-export-2025-03-24-15-53-48.png))
+![Project Screenshot](https://i.postimg.cc/KzYPSSyC/postspark-export-2025-03-24-15-53-48.png)
 
 ## ✨ Features
 
